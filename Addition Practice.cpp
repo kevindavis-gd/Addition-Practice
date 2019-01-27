@@ -21,8 +21,6 @@ int main()
 
 	//information about program printed on screen
 	//double line spacing for apperance
-	cout << "Name:Kevin Davis\n";
-	cout << "Course:CS1044, Spring 2018, Dr.Johnson\n\n";
 	cout << "Purpose:This program produces two random numbers and asks the user \n";
 	cout << "to add them together.The program adds those numbers and informs \n";
 	cout << "the user if their answer was right or not. \n";
